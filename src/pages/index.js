@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       Clone youtube com Next.js + Material-UI
-      <Button variant="outlined" color="secondary">
+      <Button variant="contained" color="primary">
         Primary
       </Button>
     </div>
